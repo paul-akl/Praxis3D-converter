@@ -48,3 +48,6 @@ Thumbs.db
 *.mov
 *.wmv
 
+Praxis3D-converter/Debug/
+Praxis3D-converter/Release/
+Praxis3D-converter/x64/

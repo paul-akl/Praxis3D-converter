@@ -21,7 +21,8 @@ You can also choose an additional directory that contains all the assets (if the
 ![praxis3d-window2](https://i.imgur.com/AuRT1Gf.png)
 
 ## Dependencies
-Libraries used in this project:
+Libraries used in this project:  
+
 - [Open-Asset-Importer-Lib (ASSIMP)](https://github.com/assimp/assimp)  
 - [FreeImage](https://freeimage.sourceforge.io/)  
 - [Nlohmann JSON](https://github.com/nlohmann/json)  

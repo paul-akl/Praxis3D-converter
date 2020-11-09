@@ -98,7 +98,6 @@ namespace Praxis3Dconverter {
 		/// </summary>
 		void InitializeComponent(void)
 		{
-			System::ComponentModel::ComponentResourceManager ^resources = (gcnew System::ComponentModel::ComponentResourceManager(MainWindowForm::typeid));
 			this->m_textBoxConsole = (gcnew System::Windows::Forms::TextBox());
 			this->m_buttonConvert = (gcnew System::Windows::Forms::Button());
 			this->m_folderBrowserDialogExport = (gcnew System::Windows::Forms::FolderBrowserDialog());

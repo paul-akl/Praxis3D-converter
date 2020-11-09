@@ -1,10 +1,8 @@
 Praxis3D converter
-===================
-&nbsp;  
+===================  
 
 Praxis3D-converter is a tool for converting various assets to be used in Praxis3D game engine. It currently supports conversions of maps (along with all the assets) from [ProjectExodus](https://github.com/NegInfinity/ProjectExodus) exported scenes, allowing Praxis3D to import maps from Unity and Unreal Engine.  
-&nbsp;  
-&nbsp;  
+
 ![praxis3d-window](https://i.imgur.com/0V7MRrk.png)
 
 ## Building

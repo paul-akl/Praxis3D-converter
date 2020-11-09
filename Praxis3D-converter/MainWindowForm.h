@@ -768,7 +768,7 @@ namespace Praxis3Dconverter {
 		System::Void m_documentationToolStripMenuItem_Click(System::Object ^sender, System::EventArgs ^e) 
 		{
 			// Open URL
-			System::Diagnostics::Process::Start("http://pauldev.org");
+			System::Diagnostics::Process::Start("https://bitbucket.org/Paul_ak/praxis3d-converter");
 		}
 		System::Void m_licenseToolStripMenuItem_Click(System::Object ^sender, System::EventArgs ^e) 
 		{
